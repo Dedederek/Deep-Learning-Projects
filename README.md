@@ -1,2 +1,2 @@
 # Deep-Learning-Projects
-Completed Machine Learning Projects
+Completed Deep Learning Projects
