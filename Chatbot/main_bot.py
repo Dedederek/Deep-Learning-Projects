@@ -9,7 +9,7 @@ from dialogue_manager import *
 from utils import *
 
 from requests.compat import urljoin
-os.environ['TELEGRAM_TOKEN']='745183946:AAEtM5KIE8KVLiDSKFZIb4ASuNcpytsGX58'
+os.environ['TELEGRAM_TOKEN']=''
 
 class BotHandler(object):
     """
